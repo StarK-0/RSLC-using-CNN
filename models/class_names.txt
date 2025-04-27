@@ -1,0 +1,11 @@
+bad
+go
+good
+hello
+help
+ily
+no
+please
+stop
+thank you
+yes
